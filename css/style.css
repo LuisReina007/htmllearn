@@ -1,0 +1,16 @@
+/* ID */
+#texto {
+    color: yellow;
+    font-size: 30px;
+}
+
+/* class */
+.parrafo {
+    color: red;
+    font-size: 5px;
+}
+
+.new_alert{
+    color: red;
+    font-weight: bold;
+}
